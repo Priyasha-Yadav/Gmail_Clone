@@ -4,7 +4,7 @@ import { IoIosSearch } from 'react-icons/io';
 import { CiCircleQuestion } from 'react-icons/ci';
 import { CiSettings } from 'react-icons/ci';
 import { PiDotsNineBold } from 'react-icons/pi';
-import Avatar from './ui/Avatar';
+import Avatar from '../ui/Avatar';
 
 const Navbar = () => {
     return (
